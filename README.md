@@ -20,3 +20,4 @@
 TODO:
 1. Добавить анализ имеющихся данных и на их основе предсказывать погоду
 
+<a href="https://ibb.co/Xx8B273"><img src="https://i.ibb.co/PGQpmc9/image.png" alt="image" border="0"></a>
