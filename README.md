@@ -8,6 +8,7 @@
 * Библеотека Wire
 * Библеотека Adafruit_GFX
 * Библеотека Adafruit_SSD1306
+* Библеотека OLED_Display_96x96
 ---
 Установка:
 1. Архивы распаковать в /user/Documents/Arduino/libraries
